@@ -3,6 +3,6 @@ Brainfuck interpreter
 
 Usage: 
 ```
-go build src/brainfuck.go
-./brainfuck <file.bf>
+go build src/bfi.go
+./bfi <file.bf>
 ```
